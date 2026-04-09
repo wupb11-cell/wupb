@@ -1,0 +1,200 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta
+      name="description"
+      content="AI市集，聚合中国、美国、欧洲与 GitHub 热门 AI 工具，提供分类筛选、Skill 集市、深度评价和模型选择建议。"
+    />
+    <title>AI市集</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="hero">
+        <div class="hero__top">
+          <span class="badge">AI市集 · 微信友好 · 每日可更新</span>
+          <span class="timestamp" id="lastUpdated"></span>
+        </div>
+        <div class="hero__content">
+          <div>
+            <p class="hero__eyebrow">Global AI Marketplace</p>
+            <h1>AI市集</h1>
+            <p class="hero__intro">
+              一个把全球热门 AI 工具、GitHub 开源项目、Skill 集市、明星工具评价和模型选择建议放在一起的发现平台。
+            </p>
+          </div>
+          <div class="hero__panel">
+            <strong>你现在就能做的事</strong>
+            <ul>
+              <li>按类型、场景、地区快速找工具</li>
+              <li>优先浏览高优推荐和 GitHub 热门项目</li>
+              <li>查看 Skill 集市和明星 AI 工具深度评价</li>
+              <li>快速理解 Sonnet / Opus / DeepSeek 系列怎么选</li>
+            </ul>
+          </div>
+        </div>
+        <div class="hero__actions">
+          <a href="#basics" class="button button--primary">先学基础知识</a>
+          <a href="#all-tools" class="button button--ghost">逛工具市集</a>
+          <a href="#model-guides" class="button button--ghost">看模型怎么选</a>
+        </div>
+        <div class="hero__metrics" id="metrics"></div>
+      </header>
+
+      <main>
+        <section class="panel" id="basics">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Begin Here</p>
+              <h2>AI 工具基础知识</h2>
+            </div>
+            <p class="section-copy">这一部分专门写给 0 基础用户，先看懂“AI 工具是什么、怎么分、怎么配合用”，再去选工具会更轻松。</p>
+          </div>
+          <div class="basics-grid" id="basicsGrid"></div>
+        </section>
+
+        <section class="panel panel--highlight" id="recommendations">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Curated Picks</p>
+              <h2>高优推荐区</h2>
+            </div>
+            <p class="section-copy">
+              综合考虑口碑、覆盖面、社区热度、上手门槛和近期动量，适合作为首页重点陈列。
+            </p>
+          </div>
+          <div class="tool-grid" id="recommendationGrid"></div>
+        </section>
+
+        <section class="panel">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Daily Update</p>
+              <h2>今日更新</h2>
+            </div>
+            <p class="section-copy">这个区域适合每天刷新新秀、热门上升项、GitHub 热门和编辑推荐。</p>
+          </div>
+          <div class="daily-list" id="dailyUpdates"></div>
+        </section>
+
+        <section class="panel" id="skill-market">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Skill Market</p>
+              <h2>Skill 集市</h2>
+            </div>
+            <p class="section-copy">除了工具本身，也收录可复用的工作流、提示词包、行业模板和协作技能包，并写清安装路径和适合谁用。</p>
+          </div>
+          <div class="skill-grid" id="skillGrid"></div>
+        </section>
+
+        <section class="panel" id="claw-market">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Claw Market</p>
+              <h2>Claw / 办公助手专区</h2>
+            </div>
+            <p class="section-copy">这一类工具更像“帮你处理工作”的 AI 助手，常见在办公、企业协作、知识库和流程处理场景。</p>
+          </div>
+          <div class="claw-grid" id="clawGrid"></div>
+        </section>
+
+        <section class="panel" id="spotlights">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Spotlight Reviews</p>
+              <h2>明星 AI 工具深度评价</h2>
+            </div>
+            <p class="section-copy">帮助用户更快理解效率、优劣势、价格、稳定性、响应速度以及适合与不适合的任务。</p>
+          </div>
+          <div class="spotlight-grid" id="spotlightGrid"></div>
+        </section>
+
+        <section class="panel" id="model-guides">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Model Guides</p>
+              <h2>一个工具下多个模型怎么选</h2>
+            </div>
+            <p class="section-copy">把同家产品里的不同模型拆开讲清楚，方便快速判断“性能优先”还是“成本优先”。</p>
+          </div>
+          <div class="guide-grid" id="modelGuideGrid"></div>
+        </section>
+
+        <section class="panel" id="all-tools">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">All Tools</p>
+              <h2>全球 AI 工具市集</h2>
+            </div>
+            <p class="section-copy">这里既能看工具，也能直接筛选。小白用户可以先选“通用”或“中国”，再慢慢缩小范围。</p>
+          </div>
+          <div class="filters filters--inside">
+            <label class="search-field">
+              <span>搜索工具</span>
+              <input
+                id="searchInput"
+                type="search"
+                placeholder="例如：Kimi、Coze、视频、编程、办公、Claw"
+              />
+            </label>
+            <div class="filter-group">
+              <span>按类型找</span>
+              <div class="chip-row" id="typeFilters"></div>
+            </div>
+            <div class="filter-group">
+              <span>按用途找</span>
+              <div class="chip-row" id="scenarioFilters"></div>
+            </div>
+            <div class="filter-group">
+              <span>按地区找</span>
+              <div class="chip-row" id="regionFilters"></div>
+            </div>
+          </div>
+          <p class="section-copy results-copy" id="resultSummary"></p>
+          <div class="tool-grid" id="toolGrid"></div>
+        </section>
+      </main>
+    </div>
+
+    <template id="toolCardTemplate">
+      <article class="tool-card">
+        <div class="tool-card__header">
+          <div>
+            <div class="tool-card__title-row">
+              <h3></h3>
+              <span class="score-pill"></span>
+            </div>
+            <p class="tool-card__tagline"></p>
+          </div>
+          <a class="visit-link" target="_blank" rel="noreferrer noopener">访问</a>
+        </div>
+        <div class="meta-row meta-row--types"></div>
+        <div class="meta-row meta-row--scenarios"></div>
+        <div class="tool-card__facts">
+          <span class="fact-pill fact-pill--region"></span>
+          <span class="fact-pill fact-pill--pricing"></span>
+          <span class="fact-pill fact-pill--stability"></span>
+          <span class="fact-pill fact-pill--latency"></span>
+        </div>
+        <p class="tool-card__description"></p>
+        <div class="tool-card__strengths"></div>
+        <div class="tool-card__footer">
+          <span class="source-badge"></span>
+          <span class="update-badge"></span>
+        </div>
+      </article>
+    </template>
+
+    <script src="./data/tools.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

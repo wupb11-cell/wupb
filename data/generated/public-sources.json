@@ -1,0 +1,531 @@
+{
+  "refreshedAt": "2026-04-09T15:05:24.926Z",
+  "tools": [
+    {
+      "id": "github-langflow-ai-langflow",
+      "name": "langflow",
+      "tagline": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "description": "langflow-ai/langflow 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "Agent",
+        "开源"
+      ],
+      "scenarios": [
+        "自动化",
+        "编程"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "agents",
+        "chatgpt",
+        "generative-ai"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · langflow-ai/langflow",
+      "updatedAt": "Stars 146736 · Forks 8735",
+      "featured": true,
+      "url": "https://github.com/langflow-ai/langflow"
+    },
+    {
+      "id": "github-langchain-ai-langchain",
+      "name": "langchain",
+      "tagline": "The agent engineering platform",
+      "description": "langchain-ai/langchain 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "Agent",
+        "开源"
+      ],
+      "scenarios": [
+        "自动化",
+        "编程"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "agents",
+        "ai",
+        "ai-agents"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · langchain-ai/langchain",
+      "updatedAt": "Stars 132922 · Forks 21929",
+      "featured": true,
+      "url": "https://github.com/langchain-ai/langchain"
+    },
+    {
+      "id": "github-shubhamsaboo-awesome-llm-apps",
+      "name": "awesome-llm-apps",
+      "tagline": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "description": "Shubhamsaboo/awesome-llm-apps 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "Agent",
+        "开源"
+      ],
+      "scenarios": [
+        "自动化",
+        "编程"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "agents",
+        "llms",
+        "python"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
+      "updatedAt": "Stars 104886 · Forks 15293",
+      "featured": true,
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+      "id": "github-browser-use-browser-use",
+      "name": "browser-use",
+      "tagline": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "description": "browser-use/browser-use 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "Agent",
+        "开源"
+      ],
+      "scenarios": [
+        "自动化",
+        "编程"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · browser-use/browser-use",
+      "updatedAt": "Stars 86729 · Forks 10013",
+      "featured": true,
+      "url": "https://github.com/browser-use/browser-use"
+    },
+    {
+      "id": "github-infiniflow-ragflow",
+      "name": "ragflow",
+      "tagline": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "description": "infiniflow/ragflow 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "Agent",
+        "开源"
+      ],
+      "scenarios": [
+        "自动化",
+        "编程"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "agent",
+        "agentic",
+        "agentic-ai"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · infiniflow/ragflow",
+      "updatedAt": "Stars 77562 · Forks 8728",
+      "featured": true,
+      "url": "https://github.com/infiniflow/ragflow"
+    },
+    {
+      "id": "github-opendatalab-mineru",
+      "name": "MinerU",
+      "tagline": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "description": "opendatalab/MinerU 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "工作流",
+        "开源"
+      ],
+      "scenarios": [
+        "自动化",
+        "办公"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "ai4science",
+        "document-analysis",
+        "extract-data"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · opendatalab/MinerU",
+      "updatedAt": "Stars 58991 · Forks 4898",
+      "featured": true,
+      "url": "https://github.com/opendatalab/MinerU"
+    },
+    {
+      "id": "github-skyvern-ai-skyvern",
+      "name": "skyvern",
+      "tagline": "Automate browser based workflows with AI",
+      "description": "Skyvern-AI/skyvern 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "工作流",
+        "开源"
+      ],
+      "scenarios": [
+        "自动化",
+        "办公"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "ai",
+        "api",
+        "automation"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · Skyvern-AI/skyvern",
+      "updatedAt": "Stars 21093 · Forks 1906",
+      "featured": true,
+      "url": "https://github.com/Skyvern-AI/skyvern"
+    },
+    {
+      "id": "github-openai-openai-agents-python",
+      "name": "openai-agents-python",
+      "tagline": "A lightweight, powerful framework for multi-agent workflows",
+      "description": "openai/openai-agents-python 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "工作流",
+        "开源"
+      ],
+      "scenarios": [
+        "自动化",
+        "办公"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "agents",
+        "ai",
+        "framework"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · openai/openai-agents-python",
+      "updatedAt": "Stars 20666 · Forks 3389",
+      "featured": true,
+      "url": "https://github.com/openai/openai-agents-python"
+    },
+    {
+      "id": "github-comet-ml-opik",
+      "name": "opik",
+      "tagline": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+      "description": "comet-ml/opik 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "工作流",
+        "开源"
+      ],
+      "scenarios": [
+        "自动化",
+        "办公"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "evaluation",
+        "hacktoberfest",
+        "hacktoberfest2025"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · comet-ml/opik",
+      "updatedAt": "Stars 18733 · Forks 1428",
+      "featured": true,
+      "url": "https://github.com/comet-ml/opik"
+    },
+    {
+      "id": "github-neuml-txtai",
+      "name": "txtai",
+      "tagline": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+      "description": "neuml/txtai 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "工作流",
+        "开源"
+      ],
+      "scenarios": [
+        "自动化",
+        "办公"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "agents",
+        "ai",
+        "ai-agents"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · neuml/txtai",
+      "updatedAt": "Stars 12383 · Forks 800",
+      "featured": false,
+      "url": "https://github.com/neuml/txtai"
+    },
+    {
+      "id": "github-oobabooga-text-generation-webui",
+      "name": "text-generation-webui",
+      "tagline": "The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.",
+      "description": "oobabooga/text-generation-webui 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "本地模型",
+        "开源"
+      ],
+      "scenarios": [
+        "编程",
+        "自动化"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "GitHub 热门",
+        "公开开源",
+        "社区讨论高"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · oobabooga/text-generation-webui",
+      "updatedAt": "Stars 46433 · Forks 5909",
+      "featured": true,
+      "url": "https://github.com/oobabooga/text-generation-webui"
+    },
+    {
+      "id": "github-chatchat-space-langchain-chatchat",
+      "name": "Langchain-Chatchat",
+      "tagline": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain ",
+      "description": "chatchat-space/Langchain-Chatchat 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "本地模型",
+        "开源"
+      ],
+      "scenarios": [
+        "编程",
+        "自动化"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "chatbot",
+        "chatchat",
+        "chatglm"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · chatchat-space/Langchain-Chatchat",
+      "updatedAt": "Stars 37779 · Forks 6190",
+      "featured": true,
+      "url": "https://github.com/chatchat-space/Langchain-Chatchat"
+    },
+    {
+      "id": "github-khoj-ai-khoj",
+      "name": "khoj",
+      "tagline": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+      "description": "khoj-ai/khoj 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "本地模型",
+        "开源"
+      ],
+      "scenarios": [
+        "编程",
+        "自动化"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "agent",
+        "ai",
+        "assistant"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · khoj-ai/khoj",
+      "updatedAt": "Stars 33972 · Forks 2124",
+      "featured": true,
+      "url": "https://github.com/khoj-ai/khoj"
+    },
+    {
+      "id": "github-fosowl-agenticseek",
+      "name": "agenticSeek",
+      "tagline": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)",
+      "description": "Fosowl/agenticSeek 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "本地模型",
+        "开源"
+      ],
+      "scenarios": [
+        "编程",
+        "自动化"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · Fosowl/agenticSeek",
+      "updatedAt": "Stars 25867 · Forks 2890",
+      "featured": true,
+      "url": "https://github.com/Fosowl/agenticSeek"
+    },
+    {
+      "id": "github-h2oai-h2ogpt",
+      "name": "h2ogpt",
+      "tagline": "Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/",
+      "description": "h2oai/h2ogpt 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "本地模型",
+        "开源"
+      ],
+      "scenarios": [
+        "编程",
+        "自动化"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "ai",
+        "chatgpt",
+        "embeddings"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · h2oai/h2ogpt",
+      "updatedAt": "Stars 11976 · Forks 1319",
+      "featured": false,
+      "url": "https://github.com/h2oai/h2ogpt"
+    }
+  ],
+  "dailyUpdates": []
+}
