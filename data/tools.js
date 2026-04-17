@@ -1,6 +1,6 @@
 window.AI_MARKETPLACE = {
   "siteName": "AI市集",
-  "lastUpdated": "2026-04-16",
+  "lastUpdated": "2026-04-17",
   "tools": [
     {
       "id": "github-langflow-ai-langflow",
@@ -33,7 +33,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langflow-ai/langflow",
-      "updatedAt": "Stars 147000 · Forks 8777",
+      "updatedAt": "Stars 147031 · Forks 8788",
       "featured": true,
       "url": "https://github.com/langflow-ai/langflow"
     },
@@ -68,14 +68,14 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langchain-ai/langchain",
-      "updatedAt": "Stars 133727 · Forks 22099",
+      "updatedAt": "Stars 133833 · Forks 22117",
       "featured": true,
       "url": "https://github.com/langchain-ai/langchain"
     },
     {
       "id": "github-shubhamsaboo-awesome-llm-apps",
       "name": "awesome-llm-apps",
-      "tagline": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "tagline": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "description": "Shubhamsaboo/awesome-llm-apps 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
       "types": [
         "Agent",
@@ -103,7 +103,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
-      "updatedAt": "Stars 105794 · Forks 15469",
+      "updatedAt": "Stars 105992 · Forks 15514",
       "featured": true,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
@@ -138,7 +138,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · NousResearch/hermes-agent",
-      "updatedAt": "Stars 91164 · Forks 12519",
+      "updatedAt": "Stars 94921 · Forks 13243",
       "featured": true,
       "url": "https://github.com/NousResearch/hermes-agent"
     },
@@ -173,7 +173,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · browser-use/browser-use",
-      "updatedAt": "Stars 88029 · Forks 10120",
+      "updatedAt": "Stars 88206 · Forks 10130",
       "featured": true,
       "url": "https://github.com/browser-use/browser-use"
     },
@@ -208,44 +208,9 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · opendatalab/MinerU",
-      "updatedAt": "Stars 60056 · Forks 5016",
+      "updatedAt": "Stars 60220 · Forks 5034",
       "featured": true,
       "url": "https://github.com/opendatalab/MinerU"
-    },
-    {
-      "id": "github-skyvern-ai-skyvern",
-      "name": "skyvern",
-      "tagline": "Automate browser based workflows with AI",
-      "description": "Skyvern-AI/skyvern 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
-      "types": [
-        "工作流",
-        "开源"
-      ],
-      "scenarios": [
-        "自动化",
-        "办公"
-      ],
-      "regions": [
-        "GitHub",
-        "全球"
-      ],
-      "pricing": "开源免费",
-      "stability": "需看项目成熟度",
-      "latency": "取决于部署方式",
-      "strengths": [
-        "ai",
-        "api",
-        "automation"
-      ],
-      "weaknesses": [
-        "需要自行判断成熟度",
-        "开源项目通常需要自己部署"
-      ],
-      "score": 99,
-      "source": "GitHub API · Skyvern-AI/skyvern",
-      "updatedAt": "Stars 21163 · Forks 1918",
-      "featured": true,
-      "url": "https://github.com/Skyvern-AI/skyvern"
     },
     {
       "id": "github-openai-openai-agents-python",
@@ -278,9 +243,44 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · openai/openai-agents-python",
-      "updatedAt": "Stars 20879 · Forks 3421",
+      "updatedAt": "Stars 21430 · Forks 3460",
       "featured": true,
       "url": "https://github.com/openai/openai-agents-python"
+    },
+    {
+      "id": "github-skyvern-ai-skyvern",
+      "name": "skyvern",
+      "tagline": "Automate browser based workflows with AI",
+      "description": "Skyvern-AI/skyvern 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "工作流",
+        "开源"
+      ],
+      "scenarios": [
+        "自动化",
+        "办公"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "ai",
+        "api",
+        "automation"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · Skyvern-AI/skyvern",
+      "updatedAt": "Stars 21205 · Forks 1919",
+      "featured": true,
+      "url": "https://github.com/Skyvern-AI/skyvern"
     },
     {
       "id": "github-comet-ml-opik",
@@ -313,7 +313,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · comet-ml/opik",
-      "updatedAt": "Stars 18863 · Forks 1437",
+      "updatedAt": "Stars 18878 · Forks 1436",
       "featured": true,
       "url": "https://github.com/comet-ml/opik"
     },
@@ -383,7 +383,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · oobabooga/textgen",
-      "updatedAt": "Stars 46659 · Forks 5943",
+      "updatedAt": "Stars 46696 · Forks 5943",
       "featured": true,
       "url": "https://github.com/oobabooga/textgen"
     },
@@ -418,7 +418,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · chatchat-space/Langchain-Chatchat",
-      "updatedAt": "Stars 37841 · Forks 6196",
+      "updatedAt": "Stars 37857 · Forks 6196",
       "featured": true,
       "url": "https://github.com/chatchat-space/Langchain-Chatchat"
     },
@@ -453,7 +453,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · khoj-ai/khoj",
-      "updatedAt": "Stars 34096 · Forks 2139",
+      "updatedAt": "Stars 34128 · Forks 2145",
       "featured": true,
       "url": "https://github.com/khoj-ai/khoj"
     },
@@ -488,7 +488,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Fosowl/agenticSeek",
-      "updatedAt": "Stars 25932 · Forks 2899",
+      "updatedAt": "Stars 25952 · Forks 2904",
       "featured": true,
       "url": "https://github.com/Fosowl/agenticSeek"
     },
@@ -523,7 +523,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · h2oai/h2ogpt",
-      "updatedAt": "Stars 11979 · Forks 1318",
+      "updatedAt": "Stars 11980 · Forks 1318",
       "featured": false,
       "url": "https://github.com/h2oai/h2ogpt"
     },
