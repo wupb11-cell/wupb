@@ -1,6 +1,6 @@
 window.AI_MARKETPLACE = {
   "siteName": "AI市集",
-  "lastUpdated": "2026-04-17",
+  "lastUpdated": "2026-04-18",
   "tools": [
     {
       "id": "github-langflow-ai-langflow",
@@ -33,7 +33,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langflow-ai/langflow",
-      "updatedAt": "Stars 147031 · Forks 8788",
+      "updatedAt": "Stars 147066 · Forks 8800",
       "featured": true,
       "url": "https://github.com/langflow-ai/langflow"
     },
@@ -68,7 +68,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langchain-ai/langchain",
-      "updatedAt": "Stars 133833 · Forks 22117",
+      "updatedAt": "Stars 133907 · Forks 22126",
       "featured": true,
       "url": "https://github.com/langchain-ai/langchain"
     },
@@ -103,7 +103,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
-      "updatedAt": "Stars 105992 · Forks 15514",
+      "updatedAt": "Stars 106174 · Forks 15549",
       "featured": true,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
@@ -138,7 +138,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · NousResearch/hermes-agent",
-      "updatedAt": "Stars 94921 · Forks 13243",
+      "updatedAt": "Stars 97360 · Forks 13700",
       "featured": true,
       "url": "https://github.com/NousResearch/hermes-agent"
     },
@@ -173,14 +173,14 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · browser-use/browser-use",
-      "updatedAt": "Stars 88206 · Forks 10130",
+      "updatedAt": "Stars 88337 · Forks 10135",
       "featured": true,
       "url": "https://github.com/browser-use/browser-use"
     },
     {
       "id": "github-opendatalab-mineru",
       "name": "MinerU",
-      "tagline": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "tagline": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
       "description": "opendatalab/MinerU 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
       "types": [
         "工作流",
@@ -200,7 +200,7 @@ window.AI_MARKETPLACE = {
       "strengths": [
         "ai4science",
         "document-analysis",
-        "extract-data"
+        "docx"
       ],
       "weaknesses": [
         "需要自行判断成熟度",
@@ -208,7 +208,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · opendatalab/MinerU",
-      "updatedAt": "Stars 60220 · Forks 5034",
+      "updatedAt": "Stars 60333 · Forks 5044",
       "featured": true,
       "url": "https://github.com/opendatalab/MinerU"
     },
@@ -243,7 +243,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · openai/openai-agents-python",
-      "updatedAt": "Stars 21430 · Forks 3460",
+      "updatedAt": "Stars 21917 · Forks 3502",
       "featured": true,
       "url": "https://github.com/openai/openai-agents-python"
     },
@@ -278,7 +278,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Skyvern-AI/skyvern",
-      "updatedAt": "Stars 21205 · Forks 1919",
+      "updatedAt": "Stars 21222 · Forks 1927",
       "featured": true,
       "url": "https://github.com/Skyvern-AI/skyvern"
     },
@@ -313,7 +313,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · comet-ml/opik",
-      "updatedAt": "Stars 18878 · Forks 1436",
+      "updatedAt": "Stars 18892 · Forks 1434",
       "featured": true,
       "url": "https://github.com/comet-ml/opik"
     },
@@ -383,7 +383,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · oobabooga/textgen",
-      "updatedAt": "Stars 46696 · Forks 5943",
+      "updatedAt": "Stars 46731 · Forks 5949",
       "featured": true,
       "url": "https://github.com/oobabooga/textgen"
     },
@@ -418,7 +418,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · chatchat-space/Langchain-Chatchat",
-      "updatedAt": "Stars 37857 · Forks 6196",
+      "updatedAt": "Stars 37867 · Forks 6196",
       "featured": true,
       "url": "https://github.com/chatchat-space/Langchain-Chatchat"
     },
@@ -453,7 +453,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · khoj-ai/khoj",
-      "updatedAt": "Stars 34128 · Forks 2145",
+      "updatedAt": "Stars 34143 · Forks 2149",
       "featured": true,
       "url": "https://github.com/khoj-ai/khoj"
     },
@@ -488,7 +488,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Fosowl/agenticSeek",
-      "updatedAt": "Stars 25952 · Forks 2904",
+      "updatedAt": "Stars 25977 · Forks 2905",
       "featured": true,
       "url": "https://github.com/Fosowl/agenticSeek"
     },
@@ -523,7 +523,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · h2oai/h2ogpt",
-      "updatedAt": "Stars 11980 · Forks 1318",
+      "updatedAt": "Stars 11981 · Forks 1318",
       "featured": false,
       "url": "https://github.com/h2oai/h2ogpt"
     },
