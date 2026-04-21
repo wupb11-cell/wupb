@@ -1,6 +1,6 @@
 window.AI_MARKETPLACE = {
   "siteName": "AI市集",
-  "lastUpdated": "2026-04-20",
+  "lastUpdated": "2026-04-21",
   "tools": [
     {
       "id": "github-langflow-ai-langflow",
@@ -33,7 +33,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langflow-ai/langflow",
-      "updatedAt": "Stars 147139 · Forks 8804",
+      "updatedAt": "Stars 147185 · Forks 8812",
       "featured": true,
       "url": "https://github.com/langflow-ai/langflow"
     },
@@ -68,7 +68,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langchain-ai/langchain",
-      "updatedAt": "Stars 134130 · Forks 22163",
+      "updatedAt": "Stars 134274 · Forks 22184",
       "featured": true,
       "url": "https://github.com/langchain-ai/langchain"
     },
@@ -103,7 +103,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
-      "updatedAt": "Stars 106491 · Forks 15628",
+      "updatedAt": "Stars 106665 · Forks 15662",
       "featured": true,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
@@ -138,7 +138,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · NousResearch/hermes-agent",
-      "updatedAt": "Stars 103343 · Forks 14748",
+      "updatedAt": "Stars 106344 · Forks 15225",
       "featured": true,
       "url": "https://github.com/NousResearch/hermes-agent"
     },
@@ -173,7 +173,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · browser-use/browser-use",
-      "updatedAt": "Stars 88781 · Forks 10168",
+      "updatedAt": "Stars 89062 · Forks 10184",
       "featured": true,
       "url": "https://github.com/browser-use/browser-use"
     },
@@ -208,7 +208,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · opendatalab/MinerU",
-      "updatedAt": "Stars 60569 · Forks 5071",
+      "updatedAt": "Stars 60672 · Forks 5079",
       "featured": true,
       "url": "https://github.com/opendatalab/MinerU"
     },
@@ -243,7 +243,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · openai/openai-agents-python",
-      "updatedAt": "Stars 23491 · Forks 3661",
+      "updatedAt": "Stars 24146 · Forks 3708",
       "featured": true,
       "url": "https://github.com/openai/openai-agents-python"
     },
@@ -278,7 +278,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Skyvern-AI/skyvern",
-      "updatedAt": "Stars 21286 · Forks 1945",
+      "updatedAt": "Stars 21299 · Forks 1951",
       "featured": true,
       "url": "https://github.com/Skyvern-AI/skyvern"
     },
@@ -313,7 +313,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · comet-ml/opik",
-      "updatedAt": "Stars 18935 · Forks 1441",
+      "updatedAt": "Stars 18957 · Forks 1442",
       "featured": true,
       "url": "https://github.com/comet-ml/opik"
     },
@@ -348,7 +348,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · neuml/txtai",
-      "updatedAt": "Stars 12407 · Forks 802",
+      "updatedAt": "Stars 12409 · Forks 802",
       "featured": false,
       "url": "https://github.com/neuml/txtai"
     },
@@ -383,7 +383,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · oobabooga/textgen",
-      "updatedAt": "Stars 46798 · Forks 5954",
+      "updatedAt": "Stars 46835 · Forks 5954",
       "featured": true,
       "url": "https://github.com/oobabooga/textgen"
     },
@@ -418,7 +418,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · chatchat-space/Langchain-Chatchat",
-      "updatedAt": "Stars 37875 · Forks 6193",
+      "updatedAt": "Stars 37881 · Forks 6196",
       "featured": true,
       "url": "https://github.com/chatchat-space/Langchain-Chatchat"
     },
@@ -453,7 +453,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · khoj-ai/khoj",
-      "updatedAt": "Stars 34165 · Forks 2155",
+      "updatedAt": "Stars 34174 · Forks 2161",
       "featured": true,
       "url": "https://github.com/khoj-ai/khoj"
     },
@@ -488,15 +488,15 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Fosowl/agenticSeek",
-      "updatedAt": "Stars 26008 · Forks 2909",
+      "updatedAt": "Stars 26024 · Forks 2912",
       "featured": true,
       "url": "https://github.com/Fosowl/agenticSeek"
     },
     {
-      "id": "github-h2oai-h2ogpt",
-      "name": "h2ogpt",
-      "tagline": "Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/",
-      "description": "h2oai/h2ogpt 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "id": "github-tirth8205-code-review-graph",
+      "name": "code-review-graph",
+      "tagline": "Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.",
+      "description": "tirth8205/code-review-graph 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
       "types": [
         "本地模型",
         "开源"
@@ -513,19 +513,19 @@ window.AI_MARKETPLACE = {
       "stability": "需看项目成熟度",
       "latency": "取决于部署方式",
       "strengths": [
-        "ai",
-        "chatgpt",
-        "embeddings"
+        "ai-coding",
+        "claude",
+        "claude-code"
       ],
       "weaknesses": [
         "需要自行判断成熟度",
         "开源项目通常需要自己部署"
       ],
       "score": 99,
-      "source": "GitHub API · h2oai/h2ogpt",
-      "updatedAt": "Stars 11984 · Forks 1319",
+      "source": "GitHub API · tirth8205/code-review-graph",
+      "updatedAt": "Stars 12043 · Forks 1334",
       "featured": false,
-      "url": "https://github.com/h2oai/h2ogpt"
+      "url": "https://github.com/tirth8205/code-review-graph"
     },
     {
       "id": "chatgpt",
