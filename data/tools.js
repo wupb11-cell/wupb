@@ -1,6 +1,6 @@
 window.AI_MARKETPLACE = {
   "siteName": "AI市集",
-  "lastUpdated": "2026-04-21",
+  "lastUpdated": "2026-04-22",
   "tools": [
     {
       "id": "github-langflow-ai-langflow",
@@ -33,7 +33,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langflow-ai/langflow",
-      "updatedAt": "Stars 147185 · Forks 8812",
+      "updatedAt": "Stars 147227 · Forks 8817",
       "featured": true,
       "url": "https://github.com/langflow-ai/langflow"
     },
@@ -68,44 +68,9 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langchain-ai/langchain",
-      "updatedAt": "Stars 134274 · Forks 22184",
+      "updatedAt": "Stars 134446 · Forks 22214",
       "featured": true,
       "url": "https://github.com/langchain-ai/langchain"
-    },
-    {
-      "id": "github-shubhamsaboo-awesome-llm-apps",
-      "name": "awesome-llm-apps",
-      "tagline": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "description": "Shubhamsaboo/awesome-llm-apps 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
-      "types": [
-        "Agent",
-        "开源"
-      ],
-      "scenarios": [
-        "自动化",
-        "编程"
-      ],
-      "regions": [
-        "GitHub",
-        "全球"
-      ],
-      "pricing": "开源免费",
-      "stability": "需看项目成熟度",
-      "latency": "取决于部署方式",
-      "strengths": [
-        "agents",
-        "llms",
-        "python"
-      ],
-      "weaknesses": [
-        "需要自行判断成熟度",
-        "开源项目通常需要自己部署"
-      ],
-      "score": 99,
-      "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
-      "updatedAt": "Stars 106665 · Forks 15662",
-      "featured": true,
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
     {
       "id": "github-nousresearch-hermes-agent",
@@ -138,9 +103,44 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · NousResearch/hermes-agent",
-      "updatedAt": "Stars 106344 · Forks 15225",
+      "updatedAt": "Stars 109033 · Forks 15751",
       "featured": true,
       "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "id": "github-shubhamsaboo-awesome-llm-apps",
+      "name": "awesome-llm-apps",
+      "tagline": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "description": "Shubhamsaboo/awesome-llm-apps 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "Agent",
+        "开源"
+      ],
+      "scenarios": [
+        "自动化",
+        "编程"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "agents",
+        "llms",
+        "python"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
+      "updatedAt": "Stars 106814 · Forks 15675",
+      "featured": true,
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
     {
       "id": "github-browser-use-browser-use",
@@ -173,7 +173,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · browser-use/browser-use",
-      "updatedAt": "Stars 89062 · Forks 10184",
+      "updatedAt": "Stars 89349 · Forks 10218",
       "featured": true,
       "url": "https://github.com/browser-use/browser-use"
     },
@@ -208,7 +208,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · opendatalab/MinerU",
-      "updatedAt": "Stars 60672 · Forks 5079",
+      "updatedAt": "Stars 60822 · Forks 5095",
       "featured": true,
       "url": "https://github.com/opendatalab/MinerU"
     },
@@ -243,7 +243,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · openai/openai-agents-python",
-      "updatedAt": "Stars 24146 · Forks 3708",
+      "updatedAt": "Stars 24461 · Forks 3748",
       "featured": true,
       "url": "https://github.com/openai/openai-agents-python"
     },
@@ -278,7 +278,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Skyvern-AI/skyvern",
-      "updatedAt": "Stars 21299 · Forks 1951",
+      "updatedAt": "Stars 21319 · Forks 1955",
       "featured": true,
       "url": "https://github.com/Skyvern-AI/skyvern"
     },
@@ -313,7 +313,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · comet-ml/opik",
-      "updatedAt": "Stars 18957 · Forks 1442",
+      "updatedAt": "Stars 18972 · Forks 1443",
       "featured": true,
       "url": "https://github.com/comet-ml/opik"
     },
@@ -348,7 +348,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · neuml/txtai",
-      "updatedAt": "Stars 12409 · Forks 802",
+      "updatedAt": "Stars 12414 · Forks 802",
       "featured": false,
       "url": "https://github.com/neuml/txtai"
     },
@@ -383,7 +383,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · oobabooga/textgen",
-      "updatedAt": "Stars 46835 · Forks 5954",
+      "updatedAt": "Stars 46841 · Forks 5962",
       "featured": true,
       "url": "https://github.com/oobabooga/textgen"
     },
@@ -418,7 +418,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · chatchat-space/Langchain-Chatchat",
-      "updatedAt": "Stars 37881 · Forks 6196",
+      "updatedAt": "Stars 37887 · Forks 6198",
       "featured": true,
       "url": "https://github.com/chatchat-space/Langchain-Chatchat"
     },
@@ -453,7 +453,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · khoj-ai/khoj",
-      "updatedAt": "Stars 34174 · Forks 2161",
+      "updatedAt": "Stars 34186 · Forks 2163",
       "featured": true,
       "url": "https://github.com/khoj-ai/khoj"
     },
@@ -488,7 +488,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Fosowl/agenticSeek",
-      "updatedAt": "Stars 26024 · Forks 2912",
+      "updatedAt": "Stars 26040 · Forks 2913",
       "featured": true,
       "url": "https://github.com/Fosowl/agenticSeek"
     },
@@ -523,7 +523,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · tirth8205/code-review-graph",
-      "updatedAt": "Stars 12043 · Forks 1334",
+      "updatedAt": "Stars 12353 · Forks 1365",
       "featured": false,
       "url": "https://github.com/tirth8205/code-review-graph"
     },
