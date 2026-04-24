@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-04-24T07:22:18.342Z",
+  "refreshedAt": "2026-04-24T07:30:59.522Z",
   "tools": [
     {
       "id": "github-langflow-ai-langflow",
@@ -32,7 +32,7 @@
       ],
       "score": 99,
       "source": "GitHub API · langflow-ai/langflow",
-      "updatedAt": "Stars 147327 · Forks 8843",
+      "updatedAt": "Stars 147328 · Forks 8843",
       "featured": true,
       "url": "https://github.com/langflow-ai/langflow"
     },
@@ -67,7 +67,7 @@
       ],
       "score": 99,
       "source": "GitHub API · langchain-ai/langchain",
-      "updatedAt": "Stars 134741 · Forks 22273",
+      "updatedAt": "Stars 134742 · Forks 22273",
       "featured": true,
       "url": "https://github.com/langchain-ai/langchain"
     },
@@ -102,7 +102,7 @@
       ],
       "score": 99,
       "source": "GitHub API · NousResearch/hermes-agent",
-      "updatedAt": "Stars 113900 · Forks 16617",
+      "updatedAt": "Stars 113922 · Forks 16619",
       "featured": true,
       "url": "https://github.com/NousResearch/hermes-agent"
     },
@@ -137,7 +137,7 @@
       ],
       "score": 99,
       "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
-      "updatedAt": "Stars 107268 · Forks 15768",
+      "updatedAt": "Stars 107269 · Forks 15768",
       "featured": true,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
@@ -172,7 +172,7 @@
       ],
       "score": 99,
       "source": "GitHub API · browser-use/browser-use",
-      "updatedAt": "Stars 89863 · Forks 10265",
+      "updatedAt": "Stars 89864 · Forks 10265",
       "featured": true,
       "url": "https://github.com/browser-use/browser-use"
     },
@@ -207,7 +207,7 @@
       ],
       "score": 99,
       "source": "GitHub API · opendatalab/MinerU",
-      "updatedAt": "Stars 61053 · Forks 5118",
+      "updatedAt": "Stars 61054 · Forks 5118",
       "featured": true,
       "url": "https://github.com/opendatalab/MinerU"
     },
@@ -242,7 +242,7 @@
       ],
       "score": 99,
       "source": "GitHub API · openai/openai-agents-python",
-      "updatedAt": "Stars 24910 · Forks 3806",
+      "updatedAt": "Stars 24912 · Forks 3806",
       "featured": true,
       "url": "https://github.com/openai/openai-agents-python"
     },
@@ -522,7 +522,7 @@
       ],
       "score": 99,
       "source": "GitHub API · tirth8205/code-review-graph",
-      "updatedAt": "Stars 12856 · Forks 1440",
+      "updatedAt": "Stars 12858 · Forks 1440",
       "featured": false,
       "url": "https://github.com/tirth8205/code-review-graph"
     }
