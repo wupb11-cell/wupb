@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-04-24T07:30:59.522Z",
+  "refreshedAt": "2026-04-25T06:12:23.774Z",
   "tools": [
     {
       "id": "github-langflow-ai-langflow",
@@ -32,7 +32,7 @@
       ],
       "score": 99,
       "source": "GitHub API · langflow-ai/langflow",
-      "updatedAt": "Stars 147328 · Forks 8843",
+      "updatedAt": "Stars 147339 · Forks 8842",
       "featured": true,
       "url": "https://github.com/langflow-ai/langflow"
     },
@@ -67,7 +67,7 @@
       ],
       "score": 99,
       "source": "GitHub API · langchain-ai/langchain",
-      "updatedAt": "Stars 134742 · Forks 22273",
+      "updatedAt": "Stars 134816 · Forks 22285",
       "featured": true,
       "url": "https://github.com/langchain-ai/langchain"
     },
@@ -102,7 +102,7 @@
       ],
       "score": 99,
       "source": "GitHub API · NousResearch/hermes-agent",
-      "updatedAt": "Stars 113922 · Forks 16619",
+      "updatedAt": "Stars 115544 · Forks 16977",
       "featured": true,
       "url": "https://github.com/NousResearch/hermes-agent"
     },
@@ -137,7 +137,7 @@
       ],
       "score": 99,
       "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
-      "updatedAt": "Stars 107269 · Forks 15768",
+      "updatedAt": "Stars 107364 · Forks 15788",
       "featured": true,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
@@ -172,7 +172,7 @@
       ],
       "score": 99,
       "source": "GitHub API · browser-use/browser-use",
-      "updatedAt": "Stars 89864 · Forks 10265",
+      "updatedAt": "Stars 90080 · Forks 10283",
       "featured": true,
       "url": "https://github.com/browser-use/browser-use"
     },
@@ -207,7 +207,7 @@
       ],
       "score": 99,
       "source": "GitHub API · opendatalab/MinerU",
-      "updatedAt": "Stars 61054 · Forks 5118",
+      "updatedAt": "Stars 61131 · Forks 5129",
       "featured": true,
       "url": "https://github.com/opendatalab/MinerU"
     },
@@ -242,7 +242,7 @@
       ],
       "score": 99,
       "source": "GitHub API · openai/openai-agents-python",
-      "updatedAt": "Stars 24912 · Forks 3806",
+      "updatedAt": "Stars 25018 · Forks 3819",
       "featured": true,
       "url": "https://github.com/openai/openai-agents-python"
     },
@@ -277,7 +277,7 @@
       ],
       "score": 99,
       "source": "GitHub API · Skyvern-AI/skyvern",
-      "updatedAt": "Stars 21357 · Forks 1959",
+      "updatedAt": "Stars 21375 · Forks 1962",
       "featured": true,
       "url": "https://github.com/Skyvern-AI/skyvern"
     },
@@ -312,7 +312,7 @@
       ],
       "score": 99,
       "source": "GitHub API · comet-ml/opik",
-      "updatedAt": "Stars 19012 · Forks 1448",
+      "updatedAt": "Stars 19037 · Forks 1449",
       "featured": true,
       "url": "https://github.com/comet-ml/opik"
     },
@@ -347,7 +347,7 @@
       ],
       "score": 99,
       "source": "GitHub API · neuml/txtai",
-      "updatedAt": "Stars 12420 · Forks 802",
+      "updatedAt": "Stars 12421 · Forks 802",
       "featured": false,
       "url": "https://github.com/neuml/txtai"
     },
@@ -382,7 +382,7 @@
       ],
       "score": 99,
       "source": "GitHub API · oobabooga/textgen",
-      "updatedAt": "Stars 46848 · Forks 5963",
+      "updatedAt": "Stars 46856 · Forks 5963",
       "featured": true,
       "url": "https://github.com/oobabooga/textgen"
     },
@@ -417,7 +417,7 @@
       ],
       "score": 99,
       "source": "GitHub API · chatchat-space/Langchain-Chatchat",
-      "updatedAt": "Stars 37905 · Forks 6198",
+      "updatedAt": "Stars 37910 · Forks 6198",
       "featured": true,
       "url": "https://github.com/chatchat-space/Langchain-Chatchat"
     },
@@ -452,7 +452,7 @@
       ],
       "score": 99,
       "source": "GitHub API · khoj-ai/khoj",
-      "updatedAt": "Stars 34226 · Forks 2168",
+      "updatedAt": "Stars 34238 · Forks 2171",
       "featured": true,
       "url": "https://github.com/khoj-ai/khoj"
     },
@@ -487,7 +487,7 @@
       ],
       "score": 99,
       "source": "GitHub API · Fosowl/agenticSeek",
-      "updatedAt": "Stars 26068 · Forks 2917",
+      "updatedAt": "Stars 26080 · Forks 2916",
       "featured": true,
       "url": "https://github.com/Fosowl/agenticSeek"
     },
@@ -522,7 +522,7 @@
       ],
       "score": 99,
       "source": "GitHub API · tirth8205/code-review-graph",
-      "updatedAt": "Stars 12858 · Forks 1440",
+      "updatedAt": "Stars 12982 · Forks 1457",
       "featured": false,
       "url": "https://github.com/tirth8205/code-review-graph"
     }
