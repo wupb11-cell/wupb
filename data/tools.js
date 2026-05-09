@@ -1,6 +1,6 @@
 window.AI_MARKETPLACE = {
   "siteName": "AI市集",
-  "lastUpdated": "2026-05-08",
+  "lastUpdated": "2026-05-09",
   "tools": [
     {
       "id": "github-langflow-ai-langflow",
@@ -33,7 +33,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langflow-ai/langflow",
-      "updatedAt": "Stars 147834 · Forks 8924",
+      "updatedAt": "Stars 147876 · Forks 8931",
       "featured": true,
       "url": "https://github.com/langflow-ai/langflow"
     },
@@ -68,7 +68,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · NousResearch/hermes-agent",
-      "updatedAt": "Stars 138094 · Forks 21297",
+      "updatedAt": "Stars 139791 · Forks 21640",
       "featured": true,
       "url": "https://github.com/NousResearch/hermes-agent"
     },
@@ -103,7 +103,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langchain-ai/langchain",
-      "updatedAt": "Stars 136097 · Forks 22493",
+      "updatedAt": "Stars 136194 · Forks 22509",
       "featured": true,
       "url": "https://github.com/langchain-ai/langchain"
     },
@@ -138,7 +138,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
-      "updatedAt": "Stars 109181 · Forks 16153",
+      "updatedAt": "Stars 109348 · Forks 16174",
       "featured": true,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
@@ -173,7 +173,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · browser-use/browser-use",
-      "updatedAt": "Stars 92830 · Forks 10514",
+      "updatedAt": "Stars 93020 · Forks 10530",
       "featured": true,
       "url": "https://github.com/browser-use/browser-use"
     },
@@ -208,7 +208,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · opendatalab/MinerU",
-      "updatedAt": "Stars 62346 · Forks 5246",
+      "updatedAt": "Stars 62445 · Forks 5253",
       "featured": true,
       "url": "https://github.com/opendatalab/MinerU"
     },
@@ -243,7 +243,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · openai/openai-agents-python",
-      "updatedAt": "Stars 26045 · Forks 3994",
+      "updatedAt": "Stars 26093 · Forks 4005",
       "featured": true,
       "url": "https://github.com/openai/openai-agents-python"
     },
@@ -278,7 +278,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Skyvern-AI/skyvern",
-      "updatedAt": "Stars 21530 · Forks 1982",
+      "updatedAt": "Stars 21544 · Forks 1986",
       "featured": true,
       "url": "https://github.com/Skyvern-AI/skyvern"
     },
@@ -313,7 +313,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · comet-ml/opik",
-      "updatedAt": "Stars 19237 · Forks 1468",
+      "updatedAt": "Stars 19254 · Forks 1469",
       "featured": true,
       "url": "https://github.com/comet-ml/opik"
     },
@@ -348,7 +348,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · neuml/txtai",
-      "updatedAt": "Stars 12476 · Forks 808",
+      "updatedAt": "Stars 12478 · Forks 809",
       "featured": false,
       "url": "https://github.com/neuml/txtai"
     },
@@ -383,7 +383,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · oobabooga/textgen",
-      "updatedAt": "Stars 46958 · Forks 5971",
+      "updatedAt": "Stars 46961 · Forks 5971",
       "featured": true,
       "url": "https://github.com/oobabooga/textgen"
     },
@@ -418,7 +418,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · chatchat-space/Langchain-Chatchat",
-      "updatedAt": "Stars 37968 · Forks 6200",
+      "updatedAt": "Stars 37977 · Forks 6201",
       "featured": true,
       "url": "https://github.com/chatchat-space/Langchain-Chatchat"
     },
@@ -453,7 +453,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · khoj-ai/khoj",
-      "updatedAt": "Stars 34432 · Forks 2185",
+      "updatedAt": "Stars 34457 · Forks 2189",
       "featured": true,
       "url": "https://github.com/khoj-ai/khoj"
     },
@@ -488,7 +488,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Fosowl/agenticSeek",
-      "updatedAt": "Stars 26247 · Forks 2941",
+      "updatedAt": "Stars 26253 · Forks 2946",
       "featured": true,
       "url": "https://github.com/Fosowl/agenticSeek"
     },
@@ -523,7 +523,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · tirth8205/code-review-graph",
-      "updatedAt": "Stars 15757 · Forks 1717",
+      "updatedAt": "Stars 15889 · Forks 1738",
       "featured": true,
       "url": "https://github.com/tirth8205/code-review-graph"
     },
