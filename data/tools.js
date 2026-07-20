@@ -1,6 +1,6 @@
 window.AI_MARKETPLACE = {
   "siteName": "AI市集",
-  "lastUpdated": "2026-07-19",
+  "lastUpdated": "2026-07-20",
   "tools": [
     {
       "id": "github-nousresearch-hermes-agent",
@@ -33,7 +33,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · NousResearch/hermes-agent",
-      "updatedAt": "Stars 216905 · Forks 40761",
+      "updatedAt": "Stars 217351 · Forks 40936",
       "featured": true,
       "url": "https://github.com/NousResearch/hermes-agent"
     },
@@ -68,7 +68,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langflow-ai/langflow",
-      "updatedAt": "Stars 152011 · Forks 9593",
+      "updatedAt": "Stars 152058 · Forks 9607",
       "featured": true,
       "url": "https://github.com/langflow-ai/langflow"
     },
@@ -103,7 +103,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langchain-ai/langchain",
-      "updatedAt": "Stars 142061 · Forks 23625",
+      "updatedAt": "Stars 142123 · Forks 23639",
       "featured": true,
       "url": "https://github.com/langchain-ai/langchain"
     },
@@ -138,7 +138,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
-      "updatedAt": "Stars 124068 · Forks 18309",
+      "updatedAt": "Stars 124651 · Forks 18406",
       "featured": true,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
@@ -173,7 +173,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · browser-use/browser-use",
-      "updatedAt": "Stars 105458 · Forks 11618",
+      "updatedAt": "Stars 105607 · Forks 11627",
       "featured": true,
       "url": "https://github.com/browser-use/browser-use"
     },
@@ -208,7 +208,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · opendatalab/MinerU",
-      "updatedAt": "Stars 75027 · Forks 6306",
+      "updatedAt": "Stars 75139 · Forks 6311",
       "featured": true,
       "url": "https://github.com/opendatalab/MinerU"
     },
@@ -243,7 +243,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · HKUDS/nanobot",
-      "updatedAt": "Stars 45867 · Forks 8104",
+      "updatedAt": "Stars 45907 · Forks 8115",
       "featured": true,
       "url": "https://github.com/HKUDS/nanobot"
     },
@@ -278,7 +278,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · openai/openai-agents-python",
-      "updatedAt": "Stars 27998 · Forks 4346",
+      "updatedAt": "Stars 28024 · Forks 4353",
       "featured": true,
       "url": "https://github.com/openai/openai-agents-python"
     },
@@ -313,22 +313,22 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Skyvern-AI/skyvern",
-      "updatedAt": "Stars 22502 · Forks 2105",
+      "updatedAt": "Stars 22513 · Forks 2109",
       "featured": true,
       "url": "https://github.com/Skyvern-AI/skyvern"
     },
     {
-      "id": "github-comet-ml-opik",
-      "name": "opik",
-      "tagline": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
-      "description": "comet-ml/opik 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "id": "github-tirth8205-code-review-graph",
+      "name": "code-review-graph",
+      "tagline": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "description": "tirth8205/code-review-graph 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
       "types": [
-        "工作流",
+        "本地模型",
         "开源"
       ],
       "scenarios": [
-        "自动化",
-        "办公"
+        "编程",
+        "自动化"
       ],
       "regions": [
         "GitHub",
@@ -338,19 +338,19 @@ window.AI_MARKETPLACE = {
       "stability": "需看项目成熟度",
       "latency": "取决于部署方式",
       "strengths": [
-        "evaluation",
-        "hacktoberfest",
-        "hacktoberfest2025"
+        "ai-coding",
+        "claude",
+        "claude-code"
       ],
       "weaknesses": [
         "需要自行判断成熟度",
         "开源项目通常需要自己部署"
       ],
       "score": 99,
-      "source": "GitHub API · comet-ml/opik",
-      "updatedAt": "Stars 20685 · Forks 1617",
+      "source": "GitHub API · tirth8205/code-review-graph",
+      "updatedAt": "Stars 21604 · Forks 2198",
       "featured": true,
-      "url": "https://github.com/comet-ml/opik"
+      "url": "https://github.com/tirth8205/code-review-graph"
     },
     {
       "id": "github-oobabooga-textgen",
@@ -383,7 +383,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · oobabooga/textgen",
-      "updatedAt": "Stars 47462 · Forks 5977",
+      "updatedAt": "Stars 47463 · Forks 5977",
       "featured": true,
       "url": "https://github.com/oobabooga/textgen"
     },
@@ -418,7 +418,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · chatchat-space/Langchain-Chatchat",
-      "updatedAt": "Stars 38435 · Forks 6247",
+      "updatedAt": "Stars 38443 · Forks 6247",
       "featured": true,
       "url": "https://github.com/chatchat-space/Langchain-Chatchat"
     },
@@ -453,7 +453,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · khoj-ai/khoj",
-      "updatedAt": "Stars 35863 · Forks 2318",
+      "updatedAt": "Stars 35882 · Forks 2320",
       "featured": true,
       "url": "https://github.com/khoj-ai/khoj"
     },
@@ -488,44 +488,9 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Fosowl/agenticSeek",
-      "updatedAt": "Stars 26643 · Forks 2983",
+      "updatedAt": "Stars 26643 · Forks 2984",
       "featured": true,
       "url": "https://github.com/Fosowl/agenticSeek"
-    },
-    {
-      "id": "github-tirth8205-code-review-graph",
-      "name": "code-review-graph",
-      "tagline": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "description": "tirth8205/code-review-graph 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
-      "types": [
-        "本地模型",
-        "开源"
-      ],
-      "scenarios": [
-        "编程",
-        "自动化"
-      ],
-      "regions": [
-        "GitHub",
-        "全球"
-      ],
-      "pricing": "开源免费",
-      "stability": "需看项目成熟度",
-      "latency": "取决于部署方式",
-      "strengths": [
-        "ai-coding",
-        "claude",
-        "claude-code"
-      ],
-      "weaknesses": [
-        "需要自行判断成熟度",
-        "开源项目通常需要自己部署"
-      ],
-      "score": 99,
-      "source": "GitHub API · tirth8205/code-review-graph",
-      "updatedAt": "Stars 20262 · Forks 2129",
-      "featured": true,
-      "url": "https://github.com/tirth8205/code-review-graph"
     },
     {
       "id": "chatgpt",
