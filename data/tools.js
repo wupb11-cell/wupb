@@ -1,6 +1,6 @@
 window.AI_MARKETPLACE = {
   "siteName": "AI市集",
-  "lastUpdated": "2026-07-20",
+  "lastUpdated": "2026-07-21",
   "tools": [
     {
       "id": "github-nousresearch-hermes-agent",
@@ -33,7 +33,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · NousResearch/hermes-agent",
-      "updatedAt": "Stars 217351 · Forks 40936",
+      "updatedAt": "Stars 217900 · Forks 41134",
       "featured": true,
       "url": "https://github.com/NousResearch/hermes-agent"
     },
@@ -68,7 +68,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langflow-ai/langflow",
-      "updatedAt": "Stars 152058 · Forks 9607",
+      "updatedAt": "Stars 152120 · Forks 9612",
       "featured": true,
       "url": "https://github.com/langflow-ai/langflow"
     },
@@ -103,7 +103,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langchain-ai/langchain",
-      "updatedAt": "Stars 142123 · Forks 23639",
+      "updatedAt": "Stars 142210 · Forks 23651",
       "featured": true,
       "url": "https://github.com/langchain-ai/langchain"
     },
@@ -138,7 +138,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
-      "updatedAt": "Stars 124651 · Forks 18406",
+      "updatedAt": "Stars 125270 · Forks 18482",
       "featured": true,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
@@ -173,9 +173,44 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · browser-use/browser-use",
-      "updatedAt": "Stars 105607 · Forks 11627",
+      "updatedAt": "Stars 105781 · Forks 11644",
       "featured": true,
       "url": "https://github.com/browser-use/browser-use"
+    },
+    {
+      "id": "github-harry0703-moneyprinterturbo",
+      "name": "MoneyPrinterTurbo",
+      "tagline": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "description": "harry0703/MoneyPrinterTurbo 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "工作流",
+        "开源"
+      ],
+      "scenarios": [
+        "自动化",
+        "办公"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "ai-video-generator",
+        "content-creation",
+        "ffmpeg"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · harry0703/MoneyPrinterTurbo",
+      "updatedAt": "Stars 98376 · Forks 14539",
+      "featured": true,
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
       "id": "github-opendatalab-mineru",
@@ -208,7 +243,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · opendatalab/MinerU",
-      "updatedAt": "Stars 75139 · Forks 6311",
+      "updatedAt": "Stars 75240 · Forks 6323",
       "featured": true,
       "url": "https://github.com/opendatalab/MinerU"
     },
@@ -243,7 +278,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · HKUDS/nanobot",
-      "updatedAt": "Stars 45907 · Forks 8115",
+      "updatedAt": "Stars 45954 · Forks 8127",
       "featured": true,
       "url": "https://github.com/HKUDS/nanobot"
     },
@@ -278,15 +313,15 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · openai/openai-agents-python",
-      "updatedAt": "Stars 28024 · Forks 4353",
+      "updatedAt": "Stars 28049 · Forks 4362",
       "featured": true,
       "url": "https://github.com/openai/openai-agents-python"
     },
     {
-      "id": "github-skyvern-ai-skyvern",
-      "name": "skyvern",
-      "tagline": "Automate browser based workflows with AI",
-      "description": "Skyvern-AI/skyvern 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "id": "github-deepset-ai-haystack",
+      "name": "haystack",
+      "tagline": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "description": "deepset-ai/haystack 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
       "types": [
         "工作流",
         "开源"
@@ -303,25 +338,25 @@ window.AI_MARKETPLACE = {
       "stability": "需看项目成熟度",
       "latency": "取决于部署方式",
       "strengths": [
-        "ai",
-        "api",
-        "automation"
+        "agent",
+        "agents",
+        "ai"
       ],
       "weaknesses": [
         "需要自行判断成熟度",
         "开源项目通常需要自己部署"
       ],
       "score": 99,
-      "source": "GitHub API · Skyvern-AI/skyvern",
-      "updatedAt": "Stars 22513 · Forks 2109",
+      "source": "GitHub API · deepset-ai/haystack",
+      "updatedAt": "Stars 25960 · Forks 2941",
       "featured": true,
-      "url": "https://github.com/Skyvern-AI/skyvern"
+      "url": "https://github.com/deepset-ai/haystack"
     },
     {
-      "id": "github-tirth8205-code-review-graph",
-      "name": "code-review-graph",
-      "tagline": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "description": "tirth8205/code-review-graph 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "id": "github-graphify-labs-graphify",
+      "name": "graphify",
+      "tagline": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "description": "Graphify-Labs/graphify 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
       "types": [
         "本地模型",
         "开源"
@@ -338,19 +373,54 @@ window.AI_MARKETPLACE = {
       "stability": "需看项目成熟度",
       "latency": "取决于部署方式",
       "strengths": [
-        "ai-coding",
-        "claude",
-        "claude-code"
+        "ai-agents",
+        "antigravity",
+        "ast"
       ],
       "weaknesses": [
         "需要自行判断成熟度",
         "开源项目通常需要自己部署"
       ],
       "score": 99,
-      "source": "GitHub API · tirth8205/code-review-graph",
-      "updatedAt": "Stars 21604 · Forks 2198",
+      "source": "GitHub API · Graphify-Labs/graphify",
+      "updatedAt": "Stars 92448 · Forks 8990",
       "featured": true,
-      "url": "https://github.com/tirth8205/code-review-graph"
+      "url": "https://github.com/Graphify-Labs/graphify"
+    },
+    {
+      "id": "github-unslothai-unsloth",
+      "name": "unsloth",
+      "tagline": "Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.",
+      "description": "unslothai/unsloth 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "本地模型",
+        "开源"
+      ],
+      "scenarios": [
+        "编程",
+        "自动化"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "agent",
+        "deepseek",
+        "fine-tuning"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · unslothai/unsloth",
+      "updatedAt": "Stars 68597 · Forks 6162",
+      "featured": true,
+      "url": "https://github.com/unslothai/unsloth"
     },
     {
       "id": "github-oobabooga-textgen",
@@ -383,7 +453,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · oobabooga/textgen",
-      "updatedAt": "Stars 47463 · Forks 5977",
+      "updatedAt": "Stars 47469 · Forks 5977",
       "featured": true,
       "url": "https://github.com/oobabooga/textgen"
     },
@@ -418,7 +488,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · chatchat-space/Langchain-Chatchat",
-      "updatedAt": "Stars 38443 · Forks 6247",
+      "updatedAt": "Stars 38448 · Forks 6249",
       "featured": true,
       "url": "https://github.com/chatchat-space/Langchain-Chatchat"
     },
@@ -453,44 +523,9 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · khoj-ai/khoj",
-      "updatedAt": "Stars 35882 · Forks 2320",
+      "updatedAt": "Stars 35901 · Forks 2319",
       "featured": true,
       "url": "https://github.com/khoj-ai/khoj"
-    },
-    {
-      "id": "github-fosowl-agenticseek",
-      "name": "agenticSeek",
-      "tagline": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. Also checkout AgenticSeek successor 3Toks! https://github.com/Fosowl/3toks",
-      "description": "Fosowl/agenticSeek 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
-      "types": [
-        "本地模型",
-        "开源"
-      ],
-      "scenarios": [
-        "编程",
-        "自动化"
-      ],
-      "regions": [
-        "GitHub",
-        "全球"
-      ],
-      "pricing": "开源免费",
-      "stability": "需看项目成熟度",
-      "latency": "取决于部署方式",
-      "strengths": [
-        "agentic-ai",
-        "agents",
-        "ai"
-      ],
-      "weaknesses": [
-        "需要自行判断成熟度",
-        "开源项目通常需要自己部署"
-      ],
-      "score": 99,
-      "source": "GitHub API · Fosowl/agenticSeek",
-      "updatedAt": "Stars 26643 · Forks 2984",
-      "featured": true,
-      "url": "https://github.com/Fosowl/agenticSeek"
     },
     {
       "id": "chatgpt",
