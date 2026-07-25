@@ -1,6 +1,6 @@
 window.AI_MARKETPLACE = {
   "siteName": "AI市集",
-  "lastUpdated": "2026-07-24",
+  "lastUpdated": "2026-07-25",
   "tools": [
     {
       "id": "github-nousresearch-hermes-agent",
@@ -33,7 +33,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · NousResearch/hermes-agent",
-      "updatedAt": "Stars 219597 · Forks 41684",
+      "updatedAt": "Stars 220084 · Forks 41850",
       "featured": true,
       "url": "https://github.com/NousResearch/hermes-agent"
     },
@@ -68,7 +68,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langflow-ai/langflow",
-      "updatedAt": "Stars 152300 · Forks 9636",
+      "updatedAt": "Stars 152350 · Forks 9644",
       "featured": true,
       "url": "https://github.com/langflow-ai/langflow"
     },
@@ -103,7 +103,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langchain-ai/langchain",
-      "updatedAt": "Stars 142465 · Forks 23713",
+      "updatedAt": "Stars 142545 · Forks 23728",
       "featured": true,
       "url": "https://github.com/langchain-ai/langchain"
     },
@@ -138,7 +138,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
-      "updatedAt": "Stars 127000 · Forks 18725",
+      "updatedAt": "Stars 127412 · Forks 18784",
       "featured": true,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
@@ -173,7 +173,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · browser-use/browser-use",
-      "updatedAt": "Stars 106429 · Forks 11703",
+      "updatedAt": "Stars 106650 · Forks 11725",
       "featured": true,
       "url": "https://github.com/browser-use/browser-use"
     },
@@ -208,7 +208,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · harry0703/MoneyPrinterTurbo",
-      "updatedAt": "Stars 98949 · Forks 14643",
+      "updatedAt": "Stars 99162 · Forks 14680",
       "featured": true,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
@@ -243,7 +243,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · opendatalab/MinerU",
-      "updatedAt": "Stars 75575 · Forks 6350",
+      "updatedAt": "Stars 75645 · Forks 6356",
       "featured": true,
       "url": "https://github.com/opendatalab/MinerU"
     },
@@ -278,7 +278,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · HKUDS/nanobot",
-      "updatedAt": "Stars 46147 · Forks 8158",
+      "updatedAt": "Stars 46203 · Forks 8174",
       "featured": true,
       "url": "https://github.com/HKUDS/nanobot"
     },
@@ -313,15 +313,15 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · openai/openai-agents-python",
-      "updatedAt": "Stars 28128 · Forks 4369",
+      "updatedAt": "Stars 28156 · Forks 4376",
       "featured": true,
       "url": "https://github.com/openai/openai-agents-python"
     },
     {
-      "id": "github-deepset-ai-haystack",
-      "name": "haystack",
-      "tagline": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
-      "description": "deepset-ai/haystack 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "id": "github-tirth8205-code-review-graph",
+      "name": "code-review-graph",
+      "tagline": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "description": "tirth8205/code-review-graph 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
       "types": [
         "工作流",
         "开源"
@@ -338,19 +338,19 @@ window.AI_MARKETPLACE = {
       "stability": "需看项目成熟度",
       "latency": "取决于部署方式",
       "strengths": [
-        "agent",
-        "agents",
-        "ai"
+        "ai-coding",
+        "claude",
+        "claude-code"
       ],
       "weaknesses": [
         "需要自行判断成熟度",
         "开源项目通常需要自己部署"
       ],
       "score": 99,
-      "source": "GitHub API · deepset-ai/haystack",
-      "updatedAt": "Stars 25993 · Forks 2946",
+      "source": "GitHub API · tirth8205/code-review-graph",
+      "updatedAt": "Stars 26255 · Forks 2454",
       "featured": true,
-      "url": "https://github.com/deepset-ai/haystack"
+      "url": "https://github.com/tirth8205/code-review-graph"
     },
     {
       "id": "github-graphify-labs-graphify",
@@ -383,7 +383,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Graphify-Labs/graphify",
-      "updatedAt": "Stars 94732 · Forks 9177",
+      "updatedAt": "Stars 95355 · Forks 9235",
       "featured": true,
       "url": "https://github.com/Graphify-Labs/graphify"
     },
@@ -418,7 +418,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · unslothai/unsloth",
-      "updatedAt": "Stars 68807 · Forks 6190",
+      "updatedAt": "Stars 68855 · Forks 6201",
       "featured": true,
       "url": "https://github.com/unslothai/unsloth"
     },
@@ -453,7 +453,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · oobabooga/textgen",
-      "updatedAt": "Stars 47485 · Forks 5983",
+      "updatedAt": "Stars 47487 · Forks 5983",
       "featured": true,
       "url": "https://github.com/oobabooga/textgen"
     },
@@ -488,7 +488,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · chatchat-space/Langchain-Chatchat",
-      "updatedAt": "Stars 38463 · Forks 6253",
+      "updatedAt": "Stars 38469 · Forks 6251",
       "featured": true,
       "url": "https://github.com/chatchat-space/Langchain-Chatchat"
     },
@@ -523,7 +523,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · khoj-ai/khoj",
-      "updatedAt": "Stars 35957 · Forks 2323",
+      "updatedAt": "Stars 35974 · Forks 2322",
       "featured": true,
       "url": "https://github.com/khoj-ai/khoj"
     },
