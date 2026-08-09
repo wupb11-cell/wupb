@@ -1,6 +1,6 @@
 window.AI_MARKETPLACE = {
   "siteName": "AI市集",
-  "lastUpdated": "2026-08-08",
+  "lastUpdated": "2026-08-09",
   "tools": [
     {
       "id": "github-nousresearch-hermes-agent",
@@ -33,7 +33,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · NousResearch/hermes-agent",
-      "updatedAt": "Stars 227118 · Forks 44427",
+      "updatedAt": "Stars 227565 · Forks 44608",
       "featured": true,
       "url": "https://github.com/NousResearch/hermes-agent"
     },
@@ -68,7 +68,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langflow-ai/langflow",
-      "updatedAt": "Stars 152937 · Forks 9826",
+      "updatedAt": "Stars 152963 · Forks 9834",
       "featured": true,
       "url": "https://github.com/langflow-ai/langflow"
     },
@@ -103,7 +103,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langchain-ai/langchain",
-      "updatedAt": "Stars 143654 · Forks 23930",
+      "updatedAt": "Stars 143749 · Forks 23944",
       "featured": true,
       "url": "https://github.com/langchain-ai/langchain"
     },
@@ -138,7 +138,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
-      "updatedAt": "Stars 131344 · Forks 19358",
+      "updatedAt": "Stars 131552 · Forks 19378",
       "featured": true,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
@@ -173,7 +173,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · browser-use/browser-use",
-      "updatedAt": "Stars 108217 · Forks 11894",
+      "updatedAt": "Stars 108377 · Forks 11907",
       "featured": true,
       "url": "https://github.com/browser-use/browser-use"
     },
@@ -208,7 +208,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · harry0703/MoneyPrinterTurbo",
-      "updatedAt": "Stars 102112 · Forks 15384",
+      "updatedAt": "Stars 102231 · Forks 15407",
       "featured": true,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
@@ -243,7 +243,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · opendatalab/MinerU",
-      "updatedAt": "Stars 77103 · Forks 6482",
+      "updatedAt": "Stars 77165 · Forks 6490",
       "featured": true,
       "url": "https://github.com/opendatalab/MinerU"
     },
@@ -278,7 +278,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · tirth8205/code-review-graph",
-      "updatedAt": "Stars 29365 · Forks 2694",
+      "updatedAt": "Stars 29472 · Forks 2700",
       "featured": true,
       "url": "https://github.com/tirth8205/code-review-graph"
     },
@@ -313,7 +313,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · openai/openai-agents-python",
-      "updatedAt": "Stars 28477 · Forks 4461",
+      "updatedAt": "Stars 28497 · Forks 4467",
       "featured": true,
       "url": "https://github.com/openai/openai-agents-python"
     },
@@ -348,7 +348,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · deepset-ai/haystack",
-      "updatedAt": "Stars 26142 · Forks 2980",
+      "updatedAt": "Stars 26150 · Forks 2982",
       "featured": true,
       "url": "https://github.com/deepset-ai/haystack"
     },
@@ -383,14 +383,14 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Graphify-Labs/graphify",
-      "updatedAt": "Stars 104053 · Forks 10104",
+      "updatedAt": "Stars 104385 · Forks 10139",
       "featured": true,
       "url": "https://github.com/Graphify-Labs/graphify"
     },
     {
       "id": "github-unslothai-unsloth",
       "name": "unsloth",
-      "tagline": "Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.",
+      "tagline": "The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.",
       "description": "unslothai/unsloth 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
       "types": [
         "本地模型",
@@ -409,8 +409,8 @@ window.AI_MARKETPLACE = {
       "latency": "取决于部署方式",
       "strengths": [
         "agent",
-        "deepseek",
-        "fine-tuning"
+        "chatgpt",
+        "deepseek"
       ],
       "weaknesses": [
         "需要自行判断成熟度",
@@ -418,7 +418,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · unslothai/unsloth",
-      "updatedAt": "Stars 69696 · Forks 6290",
+      "updatedAt": "Stars 69734 · Forks 6294",
       "featured": true,
       "url": "https://github.com/unslothai/unsloth"
     },
@@ -453,7 +453,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · oobabooga/textgen",
-      "updatedAt": "Stars 47539 · Forks 5983",
+      "updatedAt": "Stars 47543 · Forks 5982",
       "featured": true,
       "url": "https://github.com/oobabooga/textgen"
     },
@@ -488,7 +488,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · chatchat-space/Langchain-Chatchat",
-      "updatedAt": "Stars 38523 · Forks 6266",
+      "updatedAt": "Stars 38528 · Forks 6265",
       "featured": true,
       "url": "https://github.com/chatchat-space/Langchain-Chatchat"
     },
@@ -523,7 +523,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · khoj-ai/khoj",
-      "updatedAt": "Stars 36384 · Forks 2373",
+      "updatedAt": "Stars 36396 · Forks 2373",
       "featured": true,
       "url": "https://github.com/khoj-ai/khoj"
     },
@@ -1758,16 +1758,16 @@ window.AI_MARKETPLACE = {
       "content": "RichardErkhov/manojjagatap_-_gita-text-generation-gpt2-gguf 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
     },
     {
-      "title": "Hugging Face 热门模型: RichardErkhov/saibhargavi260_-_gita-text-generation-gpt2-gguf",
-      "content": "RichardErkhov/saibhargavi260_-_gita-text-generation-gpt2-gguf 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
-    },
-    {
       "title": "Hugging Face 热门模型: RichardErkhov/nikeshthapa255_-_gita-text-generation-gpt2-gguf",
       "content": "RichardErkhov/nikeshthapa255_-_gita-text-generation-gpt2-gguf 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
     },
     {
       "title": "Hugging Face 热门模型: RichardErkhov/spruhamohanty_-_gita-text-generation-gpt2-gguf",
       "content": "RichardErkhov/spruhamohanty_-_gita-text-generation-gpt2-gguf 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
+    },
+    {
+      "title": "Hugging Face 热门模型: RichardErkhov/MeghanathReddy_-_gita-text-generation-gpt2-gguf",
+      "content": "RichardErkhov/MeghanathReddy_-_gita-text-generation-gpt2-gguf 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
     }
   ]
 };
