@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-08-11T03:09:47.826Z",
+  "refreshedAt": "2026-08-12T03:28:05.236Z",
   "tools": [
     {
       "id": "github-nousresearch-hermes-agent",
@@ -32,7 +32,7 @@
       ],
       "score": 99,
       "source": "GitHub API · NousResearch/hermes-agent",
-      "updatedAt": "Stars 228528 · Forks 44956",
+      "updatedAt": "Stars 229098 · Forks 45159",
       "featured": true,
       "url": "https://github.com/NousResearch/hermes-agent"
     },
@@ -67,7 +67,7 @@
       ],
       "score": 99,
       "source": "GitHub API · langflow-ai/langflow",
-      "updatedAt": "Stars 153037 · Forks 9842",
+      "updatedAt": "Stars 153072 · Forks 9843",
       "featured": true,
       "url": "https://github.com/langflow-ai/langflow"
     },
@@ -102,7 +102,7 @@
       ],
       "score": 99,
       "source": "GitHub API · langchain-ai/langchain",
-      "updatedAt": "Stars 143925 · Forks 23976",
+      "updatedAt": "Stars 144022 · Forks 23989",
       "featured": true,
       "url": "https://github.com/langchain-ai/langchain"
     },
@@ -137,7 +137,7 @@
       ],
       "score": 99,
       "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
-      "updatedAt": "Stars 132003 · Forks 19434",
+      "updatedAt": "Stars 132194 · Forks 19454",
       "featured": true,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
@@ -172,7 +172,7 @@
       ],
       "score": 99,
       "source": "GitHub API · browser-use/browser-use",
-      "updatedAt": "Stars 108677 · Forks 11944",
+      "updatedAt": "Stars 108846 · Forks 11959",
       "featured": true,
       "url": "https://github.com/browser-use/browser-use"
     },
@@ -207,7 +207,7 @@
       ],
       "score": 99,
       "source": "GitHub API · harry0703/MoneyPrinterTurbo",
-      "updatedAt": "Stars 102511 · Forks 15466",
+      "updatedAt": "Stars 102662 · Forks 15501",
       "featured": true,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
@@ -242,7 +242,7 @@
       ],
       "score": 99,
       "source": "GitHub API · opendatalab/MinerU",
-      "updatedAt": "Stars 77314 · Forks 6514",
+      "updatedAt": "Stars 77392 · Forks 6521",
       "featured": true,
       "url": "https://github.com/opendatalab/MinerU"
     },
@@ -277,7 +277,7 @@
       ],
       "score": 99,
       "source": "GitHub API · tirth8205/code-review-graph",
-      "updatedAt": "Stars 29725 · Forks 2720",
+      "updatedAt": "Stars 29835 · Forks 2731",
       "featured": true,
       "url": "https://github.com/tirth8205/code-review-graph"
     },
@@ -312,7 +312,7 @@
       ],
       "score": 99,
       "source": "GitHub API · openai/openai-agents-python",
-      "updatedAt": "Stars 28546 · Forks 4476",
+      "updatedAt": "Stars 28565 · Forks 4480",
       "featured": true,
       "url": "https://github.com/openai/openai-agents-python"
     },
@@ -347,7 +347,7 @@
       ],
       "score": 99,
       "source": "GitHub API · deepset-ai/haystack",
-      "updatedAt": "Stars 26170 · Forks 2993",
+      "updatedAt": "Stars 26182 · Forks 2994",
       "featured": true,
       "url": "https://github.com/deepset-ai/haystack"
     },
@@ -382,14 +382,14 @@
       ],
       "score": 99,
       "source": "GitHub API · Graphify-Labs/graphify",
-      "updatedAt": "Stars 105028 · Forks 10214",
+      "updatedAt": "Stars 105354 · Forks 10259",
       "featured": true,
       "url": "https://github.com/Graphify-Labs/graphify"
     },
     {
       "id": "github-unslothai-unsloth",
       "name": "unsloth",
-      "tagline": "The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.",
+      "tagline": "Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.",
       "description": "unslothai/unsloth 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
       "types": [
         "本地模型",
@@ -417,7 +417,7 @@
       ],
       "score": 99,
       "source": "GitHub API · unslothai/unsloth",
-      "updatedAt": "Stars 69866 · Forks 6309",
+      "updatedAt": "Stars 70299 · Forks 6343",
       "featured": true,
       "url": "https://github.com/unslothai/unsloth"
     },
@@ -452,7 +452,7 @@
       ],
       "score": 99,
       "source": "GitHub API · oobabooga/textgen",
-      "updatedAt": "Stars 47543 · Forks 5980",
+      "updatedAt": "Stars 47544 · Forks 5979",
       "featured": true,
       "url": "https://github.com/oobabooga/textgen"
     },
@@ -487,7 +487,7 @@
       ],
       "score": 99,
       "source": "GitHub API · chatchat-space/Langchain-Chatchat",
-      "updatedAt": "Stars 38537 · Forks 6263",
+      "updatedAt": "Stars 38541 · Forks 6261",
       "featured": true,
       "url": "https://github.com/chatchat-space/Langchain-Chatchat"
     },
@@ -522,7 +522,7 @@
       ],
       "score": 99,
       "source": "GitHub API · khoj-ai/khoj",
-      "updatedAt": "Stars 36436 · Forks 2375",
+      "updatedAt": "Stars 36455 · Forks 2379",
       "featured": true,
       "url": "https://github.com/khoj-ai/khoj"
     }
@@ -533,20 +533,20 @@
       "content": "masterful/gligen-1-4-generation-text-box 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
     },
     {
-      "title": "Hugging Face 热门模型: RichardErkhov/manojjagatap_-_gita-text-generation-gpt2-gguf",
-      "content": "RichardErkhov/manojjagatap_-_gita-text-generation-gpt2-gguf 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
+      "title": "Hugging Face 热门模型: RichardErkhov/Rohan5076_-_medquad-text-generation-gpt2-gguf",
+      "content": "RichardErkhov/Rohan5076_-_medquad-text-generation-gpt2-gguf 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
     },
     {
       "title": "Hugging Face 热门模型: RichardErkhov/mayankbirthariya_-_gita-text-generation-gpt2-gguf",
       "content": "RichardErkhov/mayankbirthariya_-_gita-text-generation-gpt2-gguf 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
     },
     {
-      "title": "Hugging Face 热门模型: RichardErkhov/spruhamohanty_-_gita-text-generation-gpt2-gguf",
-      "content": "RichardErkhov/spruhamohanty_-_gita-text-generation-gpt2-gguf 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
-    },
-    {
       "title": "Hugging Face 热门模型: RichardErkhov/MeghanathReddy_-_gita-text-generation-gpt2-gguf",
       "content": "RichardErkhov/MeghanathReddy_-_gita-text-generation-gpt2-gguf 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
+    },
+    {
+      "title": "Hugging Face 热门模型: RichardErkhov/Shwetaupadhyay7878_-_gita-text-generation-gpt2-gguf",
+      "content": "RichardErkhov/Shwetaupadhyay7878_-_gita-text-generation-gpt2-gguf 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
     }
   ]
 }
