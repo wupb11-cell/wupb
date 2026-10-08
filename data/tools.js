@@ -1,6 +1,6 @@
 window.AI_MARKETPLACE = {
   "siteName": "AI市集",
-  "lastUpdated": "2026-10-07",
+  "lastUpdated": "2026-10-08",
   "tools": [
     {
       "id": "github-nousresearch-hermes-agent",
@@ -33,7 +33,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · NousResearch/hermes-agent",
-      "updatedAt": "Stars 251769 · Forks 54150",
+      "updatedAt": "Stars 252032 · Forks 54282",
       "featured": true,
       "url": "https://github.com/NousResearch/hermes-agent"
     },
@@ -68,7 +68,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langflow-ai/langflow",
-      "updatedAt": "Stars 155554 · Forks 10189",
+      "updatedAt": "Stars 155576 · Forks 10192",
       "featured": true,
       "url": "https://github.com/langflow-ai/langflow"
     },
@@ -103,7 +103,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langchain-ai/langchain",
-      "updatedAt": "Stars 147517 · Forks 24720",
+      "updatedAt": "Stars 147556 · Forks 24730",
       "featured": true,
       "url": "https://github.com/langchain-ai/langchain"
     },
@@ -138,7 +138,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
-      "updatedAt": "Stars 140896 · Forks 20709",
+      "updatedAt": "Stars 140959 · Forks 20717",
       "featured": true,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
@@ -173,7 +173,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · karpathy/autoresearch",
-      "updatedAt": "Stars 97424 · Forks 13548",
+      "updatedAt": "Stars 97488 · Forks 13554",
       "featured": true,
       "url": "https://github.com/karpathy/autoresearch"
     },
@@ -208,7 +208,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · harry0703/MoneyPrinterTurbo",
-      "updatedAt": "Stars 128938 · Forks 20169",
+      "updatedAt": "Stars 129231 · Forks 20220",
       "featured": true,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
@@ -243,7 +243,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · opendatalab/MinerU",
-      "updatedAt": "Stars 81186 · Forks 6764",
+      "updatedAt": "Stars 81263 · Forks 6767",
       "featured": true,
       "url": "https://github.com/opendatalab/MinerU"
     },
@@ -278,7 +278,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · tirth8205/code-review-graph",
-      "updatedAt": "Stars 31943 · Forks 2923",
+      "updatedAt": "Stars 31968 · Forks 2927",
       "featured": true,
       "url": "https://github.com/tirth8205/code-review-graph"
     },
@@ -313,7 +313,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · openai/openai-agents-python",
-      "updatedAt": "Stars 29873 · Forks 4848",
+      "updatedAt": "Stars 29901 · Forks 4853",
       "featured": true,
       "url": "https://github.com/openai/openai-agents-python"
     },
@@ -348,7 +348,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · deepset-ai/haystack",
-      "updatedAt": "Stars 26686 · Forks 3249",
+      "updatedAt": "Stars 26694 · Forks 3255",
       "featured": true,
       "url": "https://github.com/deepset-ai/haystack"
     },
@@ -383,7 +383,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Graphify-Labs/graphify",
-      "updatedAt": "Stars 124470 · Forks 12002",
+      "updatedAt": "Stars 124753 · Forks 12026",
       "featured": true,
       "url": "https://github.com/Graphify-Labs/graphify"
     },
@@ -418,7 +418,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · unslothai/unsloth",
-      "updatedAt": "Stars 77287 · Forks 7121",
+      "updatedAt": "Stars 77426 · Forks 7139",
       "featured": true,
       "url": "https://github.com/unslothai/unsloth"
     },
@@ -488,7 +488,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · chatchat-space/Langchain-Chatchat",
-      "updatedAt": "Stars 38673 · Forks 6256",
+      "updatedAt": "Stars 38674 · Forks 6256",
       "featured": true,
       "url": "https://github.com/chatchat-space/Langchain-Chatchat"
     },
@@ -523,7 +523,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · khoj-ai/khoj",
-      "updatedAt": "Stars 37584 · Forks 2499",
+      "updatedAt": "Stars 37598 · Forks 2499",
       "featured": true,
       "url": "https://github.com/khoj-ai/khoj"
     },
@@ -1766,8 +1766,8 @@ window.AI_MARKETPLACE = {
       "content": "RichardErkhov/jimzp_-_gita-text-generation-gpt2-gguf 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
     },
     {
-      "title": "Hugging Face 热门模型: RichardErkhov/manojjagatap_-_gita-text-generation-gpt2-gguf",
-      "content": "RichardErkhov/manojjagatap_-_gita-text-generation-gpt2-gguf 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
+      "title": "Hugging Face 热门模型: PrunaAI/naveenkumarCH-gita-text-generation-gpt2-GGUF-smashed",
+      "content": "PrunaAI/naveenkumarCH-gita-text-generation-gpt2-GGUF-smashed 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
     }
   ]
 };
