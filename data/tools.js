@@ -1,6 +1,6 @@
 window.AI_MARKETPLACE = {
   "siteName": "AI市集",
-  "lastUpdated": "2026-10-15",
+  "lastUpdated": "2026-10-16",
   "tools": [
     {
       "id": "github-nousresearch-hermes-agent",
@@ -33,9 +33,44 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · NousResearch/hermes-agent",
-      "updatedAt": "Stars 253862 · Forks 55093",
+      "updatedAt": "Stars 254193 · Forks 55207",
       "featured": true,
       "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "id": "github-langgenius-dify",
+      "name": "dify",
+      "tagline": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "description": "langgenius/dify 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
+      "types": [
+        "工作流",
+        "开源"
+      ],
+      "scenarios": [
+        "自动化",
+        "办公"
+      ],
+      "regions": [
+        "GitHub",
+        "全球"
+      ],
+      "pricing": "开源免费",
+      "stability": "需看项目成熟度",
+      "latency": "取决于部署方式",
+      "strengths": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework"
+      ],
+      "weaknesses": [
+        "需要自行判断成熟度",
+        "开源项目通常需要自己部署"
+      ],
+      "score": 99,
+      "source": "GitHub API · langgenius/dify",
+      "updatedAt": "Stars 158606 · Forks 25061",
+      "featured": true,
+      "url": "https://github.com/langgenius/dify"
     },
     {
       "id": "github-langflow-ai-langflow",
@@ -68,7 +103,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langflow-ai/langflow",
-      "updatedAt": "Stars 155679 · Forks 10228",
+      "updatedAt": "Stars 155727 · Forks 10238",
       "featured": true,
       "url": "https://github.com/langflow-ai/langflow"
     },
@@ -103,7 +138,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langchain-ai/langchain",
-      "updatedAt": "Stars 147842 · Forks 24807",
+      "updatedAt": "Stars 147899 · Forks 24821",
       "featured": true,
       "url": "https://github.com/langchain-ai/langchain"
     },
@@ -138,44 +173,9 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
-      "updatedAt": "Stars 141781 · Forks 20842",
+      "updatedAt": "Stars 141916 · Forks 20864",
       "featured": true,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
-    },
-    {
-      "id": "github-browser-use-browser-use",
-      "name": "browser-use",
-      "tagline": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
-      "description": "browser-use/browser-use 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
-      "types": [
-        "Agent",
-        "开源"
-      ],
-      "scenarios": [
-        "自动化",
-        "编程"
-      ],
-      "regions": [
-        "GitHub",
-        "全球"
-      ],
-      "pricing": "开源免费",
-      "stability": "需看项目成熟度",
-      "latency": "取决于部署方式",
-      "strengths": [
-        "ai-agents",
-        "ai-tools",
-        "browser-agent"
-      ],
-      "weaknesses": [
-        "需要自行判断成熟度",
-        "开源项目通常需要自己部署"
-      ],
-      "score": 99,
-      "source": "GitHub API · browser-use/browser-use",
-      "updatedAt": "Stars 118015 · Forks 13078",
-      "featured": true,
-      "url": "https://github.com/browser-use/browser-use"
     },
     {
       "id": "github-harry0703-moneyprinterturbo",
@@ -208,7 +208,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · harry0703/MoneyPrinterTurbo",
-      "updatedAt": "Stars 131006 · Forks 20593",
+      "updatedAt": "Stars 131785 · Forks 20742",
       "featured": true,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
@@ -243,7 +243,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · opendatalab/MinerU",
-      "updatedAt": "Stars 81771 · Forks 6780",
+      "updatedAt": "Stars 81844 · Forks 6787",
       "featured": true,
       "url": "https://github.com/opendatalab/MinerU"
     },
@@ -278,7 +278,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · tirth8205/code-review-graph",
-      "updatedAt": "Stars 32159 · Forks 2948",
+      "updatedAt": "Stars 32180 · Forks 2954",
       "featured": true,
       "url": "https://github.com/tirth8205/code-review-graph"
     },
@@ -313,44 +313,9 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · openai/openai-agents-python",
-      "updatedAt": "Stars 30043 · Forks 4897",
+      "updatedAt": "Stars 30065 · Forks 4904",
       "featured": true,
       "url": "https://github.com/openai/openai-agents-python"
-    },
-    {
-      "id": "github-deepset-ai-haystack",
-      "name": "haystack",
-      "tagline": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
-      "description": "deepset-ai/haystack 来自 GitHub 公开热榜搜索，适合放入“公开平台热度”推荐区。",
-      "types": [
-        "工作流",
-        "开源"
-      ],
-      "scenarios": [
-        "自动化",
-        "办公"
-      ],
-      "regions": [
-        "GitHub",
-        "全球"
-      ],
-      "pricing": "开源免费",
-      "stability": "需看项目成熟度",
-      "latency": "取决于部署方式",
-      "strengths": [
-        "agent-framework",
-        "agentic-ai",
-        "agentic-rag"
-      ],
-      "weaknesses": [
-        "需要自行判断成熟度",
-        "开源项目通常需要自己部署"
-      ],
-      "score": 99,
-      "source": "GitHub API · deepset-ai/haystack",
-      "updatedAt": "Stars 26745 · Forks 3284",
-      "featured": true,
-      "url": "https://github.com/deepset-ai/haystack"
     },
     {
       "id": "github-graphify-labs-graphify",
@@ -383,7 +348,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Graphify-Labs/graphify",
-      "updatedAt": "Stars 126618 · Forks 12221",
+      "updatedAt": "Stars 126989 · Forks 12249",
       "featured": true,
       "url": "https://github.com/Graphify-Labs/graphify"
     },
@@ -418,7 +383,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · unslothai/unsloth",
-      "updatedAt": "Stars 78021 · Forks 7208",
+      "updatedAt": "Stars 78091 · Forks 7215",
       "featured": true,
       "url": "https://github.com/unslothai/unsloth"
     },
@@ -453,7 +418,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · oobabooga/textgen",
-      "updatedAt": "Stars 47729 · Forks 5988",
+      "updatedAt": "Stars 47734 · Forks 5987",
       "featured": true,
       "url": "https://github.com/oobabooga/textgen"
     },
@@ -488,7 +453,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · chatchat-space/Langchain-Chatchat",
-      "updatedAt": "Stars 38684 · Forks 6255",
+      "updatedAt": "Stars 38686 · Forks 6255",
       "featured": true,
       "url": "https://github.com/chatchat-space/Langchain-Chatchat"
     },
@@ -523,7 +488,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · khoj-ai/khoj",
-      "updatedAt": "Stars 37684 · Forks 2512",
+      "updatedAt": "Stars 37697 · Forks 2514",
       "featured": true,
       "url": "https://github.com/khoj-ai/khoj"
     },
