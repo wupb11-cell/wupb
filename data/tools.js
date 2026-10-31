@@ -1,6 +1,6 @@
 window.AI_MARKETPLACE = {
   "siteName": "AI市集",
-  "lastUpdated": "2026-10-30",
+  "lastUpdated": "2026-10-31",
   "tools": [
     {
       "id": "github-nousresearch-hermes-agent",
@@ -33,7 +33,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · NousResearch/hermes-agent",
-      "updatedAt": "Stars 258609 · Forks 56806",
+      "updatedAt": "Stars 258946 · Forks 56924",
       "featured": true,
       "url": "https://github.com/NousResearch/hermes-agent"
     },
@@ -68,7 +68,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langgenius/dify",
-      "updatedAt": "Stars 159964 · Forks 25272",
+      "updatedAt": "Stars 160050 · Forks 25292",
       "featured": true,
       "url": "https://github.com/langgenius/dify"
     },
@@ -103,7 +103,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langflow-ai/langflow",
-      "updatedAt": "Stars 156154 · Forks 10271",
+      "updatedAt": "Stars 156181 · Forks 10286",
       "featured": true,
       "url": "https://github.com/langflow-ai/langflow"
     },
@@ -138,7 +138,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · langchain-ai/langchain",
-      "updatedAt": "Stars 148701 · Forks 24979",
+      "updatedAt": "Stars 148753 · Forks 24997",
       "featured": true,
       "url": "https://github.com/langchain-ai/langchain"
     },
@@ -173,7 +173,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
-      "updatedAt": "Stars 143464 · Forks 21107",
+      "updatedAt": "Stars 143535 · Forks 21121",
       "featured": true,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
@@ -208,7 +208,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · harry0703/MoneyPrinterTurbo",
-      "updatedAt": "Stars 136371 · Forks 21707",
+      "updatedAt": "Stars 136673 · Forks 21769",
       "featured": true,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
@@ -243,7 +243,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · opendatalab/MinerU",
-      "updatedAt": "Stars 82789 · Forks 6847",
+      "updatedAt": "Stars 82838 · Forks 6855",
       "featured": true,
       "url": "https://github.com/opendatalab/MinerU"
     },
@@ -278,7 +278,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · tirth8205/code-review-graph",
-      "updatedAt": "Stars 32488 · Forks 2958",
+      "updatedAt": "Stars 32515 · Forks 2958",
       "featured": true,
       "url": "https://github.com/tirth8205/code-review-graph"
     },
@@ -313,7 +313,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · openai/openai-agents-python",
-      "updatedAt": "Stars 30386 · Forks 4958",
+      "updatedAt": "Stars 30402 · Forks 4960",
       "featured": true,
       "url": "https://github.com/openai/openai-agents-python"
     },
@@ -348,7 +348,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · Graphify-Labs/graphify",
-      "updatedAt": "Stars 138930 · Forks 13255",
+      "updatedAt": "Stars 139610 · Forks 13328",
       "featured": true,
       "url": "https://github.com/Graphify-Labs/graphify"
     },
@@ -383,7 +383,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · unslothai/unsloth",
-      "updatedAt": "Stars 78779 · Forks 7321",
+      "updatedAt": "Stars 78833 · Forks 7330",
       "featured": true,
       "url": "https://github.com/unslothai/unsloth"
     },
@@ -418,7 +418,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · oobabooga/textgen",
-      "updatedAt": "Stars 47728 · Forks 5982",
+      "updatedAt": "Stars 47730 · Forks 5981",
       "featured": true,
       "url": "https://github.com/oobabooga/textgen"
     },
@@ -453,7 +453,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · chatchat-space/Langchain-Chatchat",
-      "updatedAt": "Stars 38716 · Forks 6253",
+      "updatedAt": "Stars 38715 · Forks 6256",
       "featured": true,
       "url": "https://github.com/chatchat-space/Langchain-Chatchat"
     },
@@ -488,7 +488,7 @@ window.AI_MARKETPLACE = {
       ],
       "score": 99,
       "source": "GitHub API · khoj-ai/khoj",
-      "updatedAt": "Stars 37900 · Forks 2529",
+      "updatedAt": "Stars 37912 · Forks 2529",
       "featured": true,
       "url": "https://github.com/khoj-ai/khoj"
     },
@@ -1719,20 +1719,20 @@ window.AI_MARKETPLACE = {
       "content": "gligen/gligen-generation-text-box 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
     },
     {
-      "title": "Hugging Face 热门模型: PrunaAI/amireddy-gita-text-generation-gpt2-GGUF-smashed",
-      "content": "PrunaAI/amireddy-gita-text-generation-gpt2-GGUF-smashed 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
-    },
-    {
       "title": "Hugging Face 热门模型: NYTK/text-generation-news-gpt2-small-hungarian",
       "content": "NYTK/text-generation-news-gpt2-small-hungarian 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
+    },
+    {
+      "title": "Hugging Face 热门模型: PrunaAI/amireddy-gita-text-generation-gpt2-GGUF-smashed",
+      "content": "PrunaAI/amireddy-gita-text-generation-gpt2-GGUF-smashed 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
     },
     {
       "title": "Hugging Face 热门模型: RichardErkhov/jimzp_-_gita-text-generation-gpt2-gguf",
       "content": "RichardErkhov/jimzp_-_gita-text-generation-gpt2-gguf 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
     },
     {
-      "title": "Hugging Face 热门模型: PrunaAI/naveenkumarCH-gita-text-generation-gpt2-GGUF-smashed",
-      "content": "PrunaAI/naveenkumarCH-gita-text-generation-gpt2-GGUF-smashed 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
+      "title": "Hugging Face 热门模型: masterful/gligen-1-4-generation-text-box",
+      "content": "masterful/gligen-1-4-generation-text-box 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
     }
   ]
 };
