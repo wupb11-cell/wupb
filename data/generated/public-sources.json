@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-11-13T07:53:03.996Z",
+  "refreshedAt": "2026-11-14T07:34:36.687Z",
   "tools": [
     {
       "id": "github-nousresearch-hermes-agent",
@@ -32,7 +32,7 @@
       ],
       "score": 99,
       "source": "GitHub API · NousResearch/hermes-agent",
-      "updatedAt": "Stars 263050 · Forks 59222",
+      "updatedAt": "Stars 263271 · Forks 59311",
       "featured": true,
       "url": "https://github.com/NousResearch/hermes-agent"
     },
@@ -67,7 +67,7 @@
       ],
       "score": 99,
       "source": "GitHub API · langgenius/dify",
-      "updatedAt": "Stars 161075 · Forks 25473",
+      "updatedAt": "Stars 161130 · Forks 25483",
       "featured": true,
       "url": "https://github.com/langgenius/dify"
     },
@@ -102,7 +102,7 @@
       ],
       "score": 99,
       "source": "GitHub API · langflow-ai/langflow",
-      "updatedAt": "Stars 156591 · Forks 10399",
+      "updatedAt": "Stars 156618 · Forks 10400",
       "featured": true,
       "url": "https://github.com/langflow-ai/langflow"
     },
@@ -137,7 +137,7 @@
       ],
       "score": 99,
       "source": "GitHub API · langchain-ai/langchain",
-      "updatedAt": "Stars 149431 · Forks 25117",
+      "updatedAt": "Stars 149477 · Forks 25129",
       "featured": true,
       "url": "https://github.com/langchain-ai/langchain"
     },
@@ -172,7 +172,7 @@
       ],
       "score": 99,
       "source": "GitHub API · Shubhamsaboo/awesome-llm-apps",
-      "updatedAt": "Stars 144535 · Forks 21269",
+      "updatedAt": "Stars 144601 · Forks 21277",
       "featured": true,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
@@ -207,7 +207,7 @@
       ],
       "score": 99,
       "source": "GitHub API · langgenius/dify",
-      "updatedAt": "Stars 161075 · Forks 25473",
+      "updatedAt": "Stars 161130 · Forks 25483",
       "featured": true,
       "url": "https://github.com/langgenius/dify"
     },
@@ -242,7 +242,7 @@
       ],
       "score": 99,
       "source": "GitHub API · harry0703/MoneyPrinterTurbo",
-      "updatedAt": "Stars 143060 · Forks 22899",
+      "updatedAt": "Stars 143375 · Forks 22956",
       "featured": true,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
@@ -277,7 +277,7 @@
       ],
       "score": 99,
       "source": "GitHub API · opendatalab/MinerU",
-      "updatedAt": "Stars 83594 · Forks 6933",
+      "updatedAt": "Stars 83648 · Forks 6936",
       "featured": true,
       "url": "https://github.com/opendatalab/MinerU"
     },
@@ -312,7 +312,7 @@
       ],
       "score": 99,
       "source": "GitHub API · tirth8205/code-review-graph",
-      "updatedAt": "Stars 32743 · Forks 2974",
+      "updatedAt": "Stars 32759 · Forks 2978",
       "featured": true,
       "url": "https://github.com/tirth8205/code-review-graph"
     },
@@ -347,7 +347,7 @@
       ],
       "score": 99,
       "source": "GitHub API · openai/openai-agents-python",
-      "updatedAt": "Stars 30647 · Forks 5047",
+      "updatedAt": "Stars 30665 · Forks 5056",
       "featured": true,
       "url": "https://github.com/openai/openai-agents-python"
     },
@@ -382,7 +382,7 @@
       ],
       "score": 99,
       "source": "GitHub API · Graphify-Labs/graphify",
-      "updatedAt": "Stars 146897 · Forks 14089",
+      "updatedAt": "Stars 147399 · Forks 14126",
       "featured": true,
       "url": "https://github.com/Graphify-Labs/graphify"
     },
@@ -417,7 +417,7 @@
       ],
       "score": 99,
       "source": "GitHub API · unslothai/unsloth",
-      "updatedAt": "Stars 79413 · Forks 7403",
+      "updatedAt": "Stars 79472 · Forks 7409",
       "featured": true,
       "url": "https://github.com/unslothai/unsloth"
     },
@@ -452,7 +452,7 @@
       ],
       "score": 99,
       "source": "GitHub API · oobabooga/textgen",
-      "updatedAt": "Stars 47740 · Forks 5974",
+      "updatedAt": "Stars 47741 · Forks 5972",
       "featured": true,
       "url": "https://github.com/oobabooga/textgen"
     },
@@ -487,7 +487,7 @@
       ],
       "score": 99,
       "source": "GitHub API · chatchat-space/Langchain-Chatchat",
-      "updatedAt": "Stars 38716 · Forks 6255",
+      "updatedAt": "Stars 38716 · Forks 6254",
       "featured": true,
       "url": "https://github.com/chatchat-space/Langchain-Chatchat"
     },
@@ -522,7 +522,7 @@
       ],
       "score": 99,
       "source": "GitHub API · khoj-ai/khoj",
-      "updatedAt": "Stars 38118 · Forks 2546",
+      "updatedAt": "Stars 38124 · Forks 2549",
       "featured": true,
       "url": "https://github.com/khoj-ai/khoj"
     }
@@ -545,8 +545,8 @@
       "content": "MJAmi80/gita-text-generation-gpt2 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
     },
     {
-      "title": "Hugging Face 热门模型: RichardErkhov/Abhinavanand21_-_gita-text-generation-gpt2-gguf",
-      "content": "RichardErkhov/Abhinavanand21_-_gita-text-generation-gpt2-gguf 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
+      "title": "Hugging Face 热门模型: RichardErkhov/srinivasyasareni_-_gita-text-generation-gpt2-gguf",
+      "content": "RichardErkhov/srinivasyasareni_-_gita-text-generation-gpt2-gguf 在 Hugging Face 模型列表中按 downloads 排序靠前，适合加入“模型热度观察”板块。"
     }
   ]
 }
